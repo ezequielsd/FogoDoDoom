@@ -36,8 +36,12 @@ Aqui o Deschamps ensina passo a passo:
 [Youtube](https://www.youtube.com/watch?v=fxm8cadCqbs)
 
 
-# Imagens do programa
+# Estrutura do fogo
 
-![Matriz](images/Matriz.gif)
-![Fogo](images/Fogo.gif)
+<p align="center">
+  <a >
+    <img src="https://github.com/ezequielsd/FogoDoDoom/blob/main/imagens/Matriz.gif?raw=true" width="700">
+  </a>
+</p>
+
 
