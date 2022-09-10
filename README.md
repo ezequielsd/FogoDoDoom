@@ -1,5 +1,11 @@
 
-![Fogo](images/Fogo.gif)
+<p align="center">
+  <a >
+    <img src="https://github.com/ezequielsd/FogoDoDoom/blob/master/images/Fogo.gif?raw=true" width="490">
+  </a>
+</p>
+
+
 
 
 # Apresentação
