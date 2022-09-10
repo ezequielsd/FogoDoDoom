@@ -1,7 +1,7 @@
 
 <p align="center">
   <a >
-    <img src="https://github.com/ezequielsd/FogoDoDoom/blob/master/images/Fogo.gif?raw=true" width="490">
+    <img src="https://github.com/ezequielsd/FogoDoDoom/blob/main/imagens/Fogo.gif?raw=true" width="490">
   </a>
 </p>
 
